@@ -1,3 +1,4 @@
+name: global
 eureka:
   client:
     register-with-eureka: true
